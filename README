@@ -1,0 +1,28 @@
+This project tests the following 10 methods 
+
+Email   addBcc(String... emails)
+
+Email   addCc(String email)
+
+void     addHeader(String name, String value)
+
+Email   addReplyTo(String email, String name)
+
+void     buildMimeMessage()
+
+String  getHostName()
+
+Session getMailSession()
+
+Date    getSentDate()
+
+int        getSocketConnectionTimeout()
+
+Email   setFrom(String email)
+
+Using Junit framework in Eclipse.
+
+The project uses Java 11.09 and needs to have maven installed
+
+
+ 
